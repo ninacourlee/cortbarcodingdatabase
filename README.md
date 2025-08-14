@@ -1,4 +1,4 @@
-**Cortinarius barcoding database of Western Siberia and adjacent areas - data analysis**
+**CORTINARIUS BARCODING DATABASE OF WESTERN SIBERIA AND ADJACENT AREAS - DATA ANALYSIS**
 
 Bioinformatics Pipeline for Cortinarius Sequence Processing
 
