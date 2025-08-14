@@ -35,10 +35,9 @@ Filippova N, Bulyonkova T, Zvyagina E, Ageev D. (2025). Cortinarius barcoding da
 
 **How to use the script**
 
-Download processed metadata (sequences.csv) from /data folder in this repository
-Download raw sequence (fastq.gz) arcive from ENA portal /link/
-Load and run Jupyter Notebook (analysis.ipynb) for Google Colab
-Generated Figures (PNG/PDF), statistical tables (CSV) are available in /output folder in this repository
+1. Download processed metadata (sequences.csv) from /data folder in this repository
+2. Download raw sequence (fastq.gz) arcive from ENA portal /link/
+3. Load and run Jupyter Notebook (analysis.ipynb) for Google Colab
 
 **Data storage**
 
