@@ -44,8 +44,8 @@ Generated Figures (PNG/PDF), statistical tables (CSV) are available in /output f
 
 Note: Data updates will only occur via GBIF, GenBank and ENA repositories
 
-... GenBank proejct
-... GBIF dataset
-... ENA arcive
+(to be added) GenBank proejct
+(to be added) GBIF dataset
+(to be added) ENA archive
 
 
