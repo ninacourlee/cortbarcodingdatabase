@@ -28,11 +28,6 @@ Sequences with 76-95% similarity assigned to genus level; 95-97% marked as aff. 
 
 Annotated tables include: raw sequences, filtered hits, and alignment stats for reproducibility.
 
-Reproducibility
-
-Full BLAST parameters in Appendix 1.
-
-Code available on GitHub.
 
 **About the project**
 
