@@ -24,8 +24,6 @@ Output includes: Taxon (best match), other_taxa (alternatives), and alignment me
 
 **3. Data Submission & Novelty Flagging**
 
-Sequences with 76-95% similarity assigned to genus level; 95-97% marked as aff. to flag potential new taxa.
-
 Annotated tables include: raw sequences, filtered hits, and alignment stats for reproducibility.
 
 
