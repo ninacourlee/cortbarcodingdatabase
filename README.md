@@ -41,7 +41,7 @@ Filippova N, Bulyonkova T, Zvyagina E, Ageev D. (2025). Cortinarius barcoding da
 
 **Data storage**
 
-Note: Data updates will only occur via GBIF, GenBank and ENA repositories
+Note: Data updates will only occur via GBIF:
 Filippova N, Zvyagina E, Bulyonkova T, Rudykina E, Ageev D (2025). Cortinarius barcoding database of Western Siberia and adjacent areas. Version 1.4. Yugra State University Biological Collection (YSU BC). Occurrence dataset https://doi.org/10.15468/4v8km8 accessed via GBIF.org on 2025-11-03.
 
 
