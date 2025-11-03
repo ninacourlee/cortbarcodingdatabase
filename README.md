@@ -40,6 +40,7 @@ Filippova N, Bulyonkova T, Zvyagina E, Ageev D. (2025). Cortinarius barcoding da
 3. Load and run Jupyter Notebook (analysis.ipynb) for Google Colab
 
 **Data storage**
+Filippova, N. (2025). Analysis code and source data for the article (Filippova NV, Bulyonkova TM, Zvyagina EA, Ageev DV, Rudykina EA «Cortinarius barcoding database of Western Siberia and adjacent areas»). Zenodo. https://doi.org/10.5281/zenodo.17511331 
 
 Note: Data updates will only occur via GBIF:
 Filippova N, Zvyagina E, Bulyonkova T, Rudykina E, Ageev D (2025). Cortinarius barcoding database of Western Siberia and adjacent areas. Version 1.4. Yugra State University Biological Collection (YSU BC). Occurrence dataset https://doi.org/10.15468/4v8km8 accessed via GBIF.org on 2025-11-03.
