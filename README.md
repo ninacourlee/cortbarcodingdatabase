@@ -39,7 +39,7 @@ Filippova N, Bulyonkova T, Zvyagina E, Ageev D. (2025). Cortinarius barcoding da
 
 **Data storage**
 
-Filippova, N. (2025). Analysis code and source data for the article (Filippova NV, Bulyonkova TM, Zvyagina EA, Ageev DV, Rudykina EA «Cortinarius barcoding database of Western Siberia and adjacent areas»). Zenodo. https://doi.org/10.5281/zenodo.17511331 
+Filippova, N. (2025). Analysis code and source data for the article (Filippova NV, Bulyonkova TM, Zvyagina EA, Ageev DV, Rudykina EA «Cortinarius barcoding database of Western Siberia and adjacent areas»). Zenodo. https://doi.org/10.5281/zenodo.17598843
 
 Note: Data updates will only occur via GBIF:
 
